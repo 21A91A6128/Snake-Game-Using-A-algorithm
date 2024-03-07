@@ -1,4 +1,4 @@
-# Snake-Game-Using-A-algorithm
+# Snake-Game-Using-A*-algorithm
 
 Overview:
 This project is a classic implementation of the Snake Game using Java and the Swing GUI library. The game includes core mechanics such as snake movement, apple generation, collision detection, and game over conditions. Notably, it utilizes an A* algorithm for intelligent apple generation, enhancing the gameplay experience. The user interface is designed with Swing components, ensuring a visually appealing and interactive gaming experience.
